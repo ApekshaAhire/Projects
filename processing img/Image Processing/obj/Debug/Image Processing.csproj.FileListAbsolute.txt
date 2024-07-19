@@ -1,0 +1,20 @@
+D:\C#\Image Processing\Image Processing\bin\Debug\Image Processing.exe.config
+D:\C#\Image Processing\Image Processing\bin\Debug\Image Processing.exe
+D:\C#\Image Processing\Image Processing\bin\Debug\Image Processing.pdb
+D:\C#\Image Processing\Image Processing\obj\Debug\Image Processing.csprojAssemblyReference.cache
+D:\C#\Image Processing\Image Processing\obj\Debug\Image_Processing.Form1.resources
+D:\C#\Image Processing\Image Processing\obj\Debug\Image_Processing.Properties.Resources.resources
+D:\C#\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.GenerateResource.cache
+D:\C#\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.CoreCompileInputs.cache
+D:\C#\Image Processing\Image Processing\obj\Debug\Image Processing.exe
+D:\C#\Image Processing\Image Processing\obj\Debug\Image Processing.pdb
+C:\Users\apeksha\Desktop\processing img\Image Processing\bin\Debug\Image Processing.exe.config
+C:\Users\apeksha\Desktop\processing img\Image Processing\bin\Debug\Image Processing.exe
+C:\Users\apeksha\Desktop\processing img\Image Processing\bin\Debug\Image Processing.pdb
+C:\Users\apeksha\Desktop\processing img\Image Processing\obj\Debug\Image Processing.csprojAssemblyReference.cache
+C:\Users\apeksha\Desktop\processing img\Image Processing\obj\Debug\Image_Processing.Form1.resources
+C:\Users\apeksha\Desktop\processing img\Image Processing\obj\Debug\Image_Processing.Properties.Resources.resources
+C:\Users\apeksha\Desktop\processing img\Image Processing\obj\Debug\Image Processing.csproj.GenerateResource.cache
+C:\Users\apeksha\Desktop\processing img\Image Processing\obj\Debug\Image Processing.csproj.CoreCompileInputs.cache
+C:\Users\apeksha\Desktop\processing img\Image Processing\obj\Debug\Image Processing.exe
+C:\Users\apeksha\Desktop\processing img\Image Processing\obj\Debug\Image Processing.pdb
